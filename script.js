@@ -5,3 +5,7 @@ function entrarNoCurso() {
 function escolherCurso() {
     console.log("Escolheu o curso");
 }
+
+function fazerLogin() {
+    console.log("Fez login");
+}
